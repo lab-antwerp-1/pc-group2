@@ -1,6 +1,10 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "blockquote",
+    "exalidraw",
+    "markdownlint"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
