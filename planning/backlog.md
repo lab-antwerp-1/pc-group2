@@ -1,5 +1,3 @@
 # backlog
 
-must
-should
-could
+must should could
