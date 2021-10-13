@@ -1,4 +1,4 @@
-# (project name)
+# (Group 2)
 
 <!-- describe your project -->
 
