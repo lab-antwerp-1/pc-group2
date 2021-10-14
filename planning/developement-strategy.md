@@ -45,3 +45,19 @@
 - [ ] run npm linting to pass checks
 - [ ] create and merge PR for html
 - [ ] create and merge PR for css
+
+### ahmed
+
+- [ ] create issue for links
+- [ ] create new branch
+- [ ] edit index.html
+- [ ] run npm linting to pass checks
+- [ ] create and merge PR
+
+### hans
+
+- [ ] create issue for footer
+- [ ] create new branch
+- [ ] edit index.html
+- [ ] run npm linting to pass checks
+- [ ] create and merge PR
