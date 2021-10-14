@@ -4,17 +4,17 @@
 
 ## planning
 
-- [ ] schedule group meeting time
-- [ ] come up with concept for webpage
-- [ ] write [user stories](https://github.com/lab-antwerp-1/pc-group2/issues/4)
-- [ ] create[wireframe for webpage layout](https://github.com/lab-antwerp-1/pc-group2/blob/main/planning/design.md)
+- [x] schedule group meeting time
+- [x] come up with concept for webpage
+- [x] write [user stories](https://github.com/lab-antwerp-1/pc-group2/issues/4)
+- [x] create[wireframe for webpage layout](https://github.com/lab-antwerp-1/pc-group2/blob/main/planning/design.md)
 
 ## organization
 
-- [ ] create[project board](https://github.com/lab-antwerp-1/pc-group2/projects/1)
-- [ ] create[backlog of user stories](https://github.com/lab-antwerp-1/pc-group2/blob/main/planning/backlog.md)
+- [x] create[project board](https://github.com/lab-antwerp-1/pc-group2/projects/1)
+- [x] create[backlog of user stories](https://github.com/lab-antwerp-1/pc-group2/blob/main/planning/backlog.md)
 - [ ] divide workload between members of the group
-- [ ] assign [issues](https://github.com/lab-antwerp-1/pc-group2/issues)
+- [x] assign [issues](https://github.com/lab-antwerp-1/pc-group2/issues)
 
 ## production
 
@@ -36,9 +36,9 @@
 
 ### aviv
 
-- [ ] [webpage logo issue](https://github.com/lab-antwerp-1/pc-group2/issues/7)
+- [x] [webpage logo issue](https://github.com/lab-antwerp-1/pc-group2/issues/7)
 - [ ] create new branch for html
-- [ ] [webpage layout issue](https://github.com/lab-antwerp-1/pc-group2/issues/9)
+- [x] [webpage layout issue](https://github.com/lab-antwerp-1/pc-group2/issues/9)
 - [ ] create new branch for css
 - [ ] edit index.html
 - [ ] edit style.css
