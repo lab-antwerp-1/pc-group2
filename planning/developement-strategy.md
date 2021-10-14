@@ -42,5 +42,6 @@
 - [ ] create new branch for css
 - [ ] edit index.html
 - [ ] edit style.css
+- [ ] run npm linting to pass checks
 - [ ] create and merge PR for html
 - [ ] create and merge PR for css
