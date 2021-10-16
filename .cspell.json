@@ -1,6 +1,15 @@
 {
   "language": "en",
-  "words": ["blockquote", "exalidraw", "markdownlint"],
+  "words": [
+    "aviv",
+    "blockquote",
+    "exalidraw",
+    "Haettenschweiler",
+    "markdownlint",
+    "mervat",
+    "wireframe",
+    "zakaria"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
