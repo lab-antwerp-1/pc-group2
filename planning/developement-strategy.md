@@ -36,9 +36,9 @@
 
 ### aviv
 
-- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/7)for webpage logo
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/7) for webpage logo
 - [x] create new branch for html
-- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/9)for webpage layout
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/9) for webpage layout
 - [x] create new branch for css
 - [x] edit index.html
 - [x] edit style.css
