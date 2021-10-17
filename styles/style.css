@@ -78,10 +78,10 @@ img {
   flex-direction: column;
   box-sizing: border-box;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: rgb(24, 80, 80);
+  color: rgb(198, 199, 211);
   font-size: 22px;
   font-weight: bolder;
-  background-image: linear-gradient(rgb(219, 129, 129), rgb(247, 215, 236));
+  background-image: linear-gradient(rgb(78, 76, 76), rgb(190, 190, 190));
   border: solid 6px rgb(33, 10, 117);
   margin-top: 20px;
   margin-left: 40px;
