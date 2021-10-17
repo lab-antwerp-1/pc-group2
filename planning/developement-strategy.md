@@ -20,44 +20,44 @@
 
 ### zakaria
 
-- [x] create issue for webpage title/header
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/20) for webpage title/header
 - [x] create new branch
 - [x] edit index.html
 - [x] run npm linting to pass checks
-- [x] create and merge PR
+- [x] create and merge [PR](https://github.com/lab-antwerp-1/pc-group2/pull/21)
 
 ### mervat
 
-- [x] create issue for webpage introduction
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/8) for webpage introduction
 - [x] create new branch
 - [x] edit index.html
 - [x] run npm linting to pass checks
-- [x] create and merge PR
+- [x] create and merge [PR](https://github.com/lab-antwerp-1/pc-group2/pull/19)
 
 ### aviv
 
-- [x] [webpage logo issue](https://github.com/lab-antwerp-1/pc-group2/issues/7)
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/7)for webpage logo
 - [x] create new branch for html
-- [x] [webpage layout issue](https://github.com/lab-antwerp-1/pc-group2/issues/9)
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/9)for webpage layout
 - [x] create new branch for css
 - [x] edit index.html
 - [x] edit style.css
 - [x] run npm linting to pass checks
-- [x] create and merge PR for html
-- [x] create and merge PR for css
+- [x] create and merge [PR](https://github.com/lab-antwerp-1/pc-group2/pull/15) for logo
+- [x] create and merge [PR](https://github.com/lab-antwerp-1/pc-group2/pull/18) for layout css
 
 ### ahmed
 
-- [x] create issue for links
-- [x] create new branch
-- [ ] edit index.html
-- [ ] run npm linting to pass checks
-- [ ] create and merge PR
-
-### hans
-
-- [x] create issue for footer
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/11) for links
 - [x] create new branch
 - [x] edit index.html
 - [x] run npm linting to pass checks
-- [x] create and merge PR
+- [x] create and merge [PR](https://github.com/lab-antwerp-1/pc-group2/pull/24)
+
+### hans
+
+- [x] create [issue](https://github.com/lab-antwerp-1/pc-group2/issues/13) for footer
+- [x] create new branch
+- [x] edit index.html
+- [x] run npm linting to pass checks
+- [x] create and merge [PR](https://github.com/lab-antwerp-1/pc-group2/pull/17)
